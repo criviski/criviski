@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @criviski
-- 👀 I’m interested in machines
-- 🌱 I’m currently learning algebric equations
-- 💞️ I’m looking to collaborate on spaceX
-- 📫 How to reach me - India 
+- Hello reader, e1l3y aka elley here. 
+- Currently High-school Junior
+- Interests - Neuromorphic Computation & Computational Architecture
+- Skills - Python (2/10)
+- Status - shit man
 
 <!---
-criviski/cinshki 
+e1l3y/elley
 --->
